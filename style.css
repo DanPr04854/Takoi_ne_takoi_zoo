@@ -1,0 +1,160 @@
+/* Frame 1 */
+
+position: relative;
+width: 600px;
+height: 400px;
+
+background: #66E275;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 600px;
+height: 75px;
+left: 0px;
+top: 0px;
+
+background: #008110;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 600px;
+height: 50px;
+left: 0px;
+top: 350px;
+
+background: #008110;
+
+
+/* Зоопарк “Такой не такой” */
+
+position: absolute;
+width: 392px;
+height: 28px;
+left: 5px;
+top: 47px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.05em;
+
+color: #00660D;
+
+
+
+/* Билеты */
+
+position: absolute;
+width: 52px;
+height: 17px;
+left: 5px;
+top: 7px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Достопримечательности */
+
+position: absolute;
+width: 171px;
+height: 17px;
+left: 77px;
+top: 7px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Зоопарк “Такой не такой” */
+
+position: absolute;
+width: 173px;
+height: 17px;
+left: 413px;
+top: 358px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Что есть, то защищено */
+
+position: absolute;
+width: 136px;
+height: 15px;
+left: 459px;
+top: 375px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Почему стоит выбрать нас? */
+
+position: absolute;
+width: 274px;
+height: 24px;
+left: 320px;
+top: 84px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Познавательный опыт. В зоопарке можно узнать много нового и интересного о разных видах животных, их поведении, особенностях и среде обитания. Это отличная возможность расширить свои знания и понимание мира природы. Эмоциональное развитие. Наблюдение за людьми может вызвать у посетителей положительные эмоции, такие как радость, удивление и восхищение. Кроме того, это помогает развивать сочувствие к животным, что способствует формированию ответственного отношения к природе и пере-О-сознанию жизни. Отдых и релаксация. Посещение зоопарка может стать отличным способом отдохнуть от заводской суеты и расслабиться на воле. Наблюдение за спокойными и умиротворяющими людьми помогает снять стресс и улучшить настроение. */
+
+position: absolute;
+width: 565px;
+height: 175px;
+left: 19px;
+top: 118px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 13px;
+line-height: 16px;
+
+color: #000000;
+
