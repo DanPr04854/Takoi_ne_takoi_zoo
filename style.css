@@ -7,13 +7,11 @@ background-color: #008110;
 }
 
 footer {
-
 position: absolute;
 background-color: #008110;
 }
 
 header h1 {
-
 position: absolute;
 width: 392px;
 height: 28px;
@@ -25,7 +23,6 @@ font-weight: 600;
 font-size: 24px;
 line-height: 29px;
 letter-spacing: 0.05em;
-
 color: #00660D;
 }
 
@@ -38,93 +35,76 @@ font-style: normal;
 font-weight: 300;
 font-size: 14px;
 line-height: 17px;
-
-
 color: #FFFFFF;
 }
 
 footer h4 {
-
 position: absolute;
 width: 173px;
 height: 17px;
 left: 413px;
 top: 358px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 300;
 font-size: 14px;
 line-height: 17px;
-
 color: #FFFFFF;
 }
 
 
 footer p {
-
 position: absolute;
 width: 136px;
 height: 15px;
 left: 459px;
 top: 375px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 300;
 font-size: 12px;
 line-height: 15px;
-
 color: #FFFFFF;
 }
 
 
 main h1 {
-
 position: absolute;
 width: 274px;
 height: 24px;
 left: 320px;
 top: 84px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
-
 color: #000000;
 }
 
 
 .li1 {
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 900;
 font-size: 13px;
 line-height: 16px;
-
 color: #000000;
 }
 .li2 {
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 900;
 font-size: 13px;
 line-height: 16px;
-
 color: #000000;
 }
 .li3 {
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 900;
 font-size: 13px;
 line-height: 16px;
-
 color: #000000;
 }
 
