@@ -2,54 +2,36 @@ html {
   background-color: #66E275;
 }
 
-header {
-  background-color: #008110;
-  padding: 20px;
-  text-align: center;
-}
-
-footer {
+header, footer {
   background-color: #008110;
   padding: 15px;
-  text-align: center;
+  color: white;
 }
 
 header h1 {
   font-family: 'Inter', sans-serif;
   font-style: italic;
-  font-weight: 600;
-  font-size: 24px;
-  color: #FFFFFF; /* Белый текст для контраста */
+  font-size: 1.5rem;
   margin: 0;
-}
-
-header a {
-  font-family: 'Inter', sans-serif;
-  font-weight: 300;
-  font-size: 14px;
-  color: #FFFFFF;
-  margin: 0 10px;
-  text-decoration: none;
-}
-
-main {
-  padding: 20px;
-  margin-top: 80px; /* Чтобы контент не перекрывался header */
-}
-
-main h1 {
-  font-family: 'Inter', sans-serif;
-  font-weight: 400;
-  font-size: 20px;
-  color: #000000;
   text-align: center;
 }
 
-.list-item {
+header a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+main {
+  padding: 20px;
+}
+
+ol {
+  margin: 15px 0;
+  padding-left: 20px;
+}
+
+.li1, .li2, .li3 {
   font-family: 'Inter', sans-serif;
-  font-weight: 900;
-  font-size: 13px;
-  line-height: 16px;
-  color: #000000;
+  font-weight: bold;
   margin-bottom: 10px;
 }
