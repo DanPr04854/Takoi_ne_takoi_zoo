@@ -13,10 +13,6 @@ background-color: #008110;
 
 header h1 {
 position: absolute;
-width: 392px;
-height: 28px;
-left: 5px;
-top: 47px;
 font-family: 'Inter';
 font-style: italic;
 font-weight: 600;
@@ -40,10 +36,6 @@ color: #FFFFFF;
 
 footer h4 {
 position: absolute;
-width: 173px;
-height: 17px;
-left: 413px;
-top: 358px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 300;
@@ -55,10 +47,6 @@ color: #FFFFFF;
 
 footer p {
 position: absolute;
-width: 136px;
-height: 15px;
-left: 459px;
-top: 375px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 300;
@@ -70,10 +58,6 @@ color: #FFFFFF;
 
 main h1 {
 position: absolute;
-width: 274px;
-height: 24px;
-left: 320px;
-top: 84px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
